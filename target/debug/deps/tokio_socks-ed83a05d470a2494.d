@@ -1,0 +1,11 @@
+C:\Users\Xchan\src\grabber\giga-grabber\target\debug\deps\libtokio_socks-ed83a05d470a2494.rmeta: C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src/lib.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\error.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\io\mod.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\io\tokio.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\mod.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\socks4.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\socks5.rs
+
+C:\Users\Xchan\src\grabber\giga-grabber\target\debug\deps\tokio_socks-ed83a05d470a2494.d: C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src/lib.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\error.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\io\mod.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\io\tokio.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\mod.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\socks4.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\socks5.rs
+
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src/lib.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\error.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\io\mod.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\io\tokio.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\mod.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\socks4.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-socks-0.5.2\src\tcp\socks5.rs:

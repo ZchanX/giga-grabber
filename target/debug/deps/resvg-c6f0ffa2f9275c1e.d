@@ -1,0 +1,12 @@
+C:\Users\Xchan\src\grabber\giga-grabber\target\debug\deps\libresvg-c6f0ffa2f9275c1e.rmeta: C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\lib.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\clip.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\filter.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\image.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\mask.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\paint_server.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\path.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\render.rs
+
+C:\Users\Xchan\src\grabber\giga-grabber\target\debug\deps\resvg-c6f0ffa2f9275c1e.d: C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\lib.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\clip.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\filter.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\image.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\mask.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\paint_server.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\path.rs C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\render.rs
+
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\lib.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\clip.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\filter.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\image.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\mask.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\paint_server.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\path.rs:
+C:\Users\Xchan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resvg-0.29.0\src\render.rs:
